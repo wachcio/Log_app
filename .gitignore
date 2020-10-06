@@ -1222,20 +1222,7 @@ tags
 
 ### vscode ###
 
-### Web ###
-*.asp
-*.cer
-*.csr
-*.css
-*.htm
-*.html
-*.js
-*.jsp
-*.php
-*.rss
-*.wasm
-*.wat
-*.xhtml
+
 
 ### WebMethods ###
 **/IntegrationServer/datastore/
